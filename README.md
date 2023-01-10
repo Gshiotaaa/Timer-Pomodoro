@@ -5,7 +5,7 @@ Timer for my tasks
 <h1  align="center">Timer - Pomodoro</h1>
 
 <div align="center">
-<img height="400px" src="https://user-images.githubusercontent.com/117778237/211625745-676345d3-1b1d-4203-9736-161512cb2c04.PNG"/>
+<img height="400px" src="https://user-images.githubusercontent.com/117778237/211625745-676345d3-1b1d-4203-9736-161512cb2c04.PNG" alt="imagem do timer contando o tempo restante para finalização da tarefa"/>
 </div>
 
 
@@ -38,7 +38,7 @@ Timer for my tasks
 <p>Você poderá consultar o tempo restante, assim como a lista de tarefas em andamento/concluídas/interrompidas.</p>
 
 <div align="center">
-  <img align="center" alt="https://user-images.githubusercontent.com/117778237/211626547-d2022a2f-8223-4f5f-abbe-075acfe1257f.PNG"/>
+  <img align="center" src="https://user-images.githubusercontent.com/117778237/211626547-d2022a2f-8223-4f5f-abbe-075acfe1257f.PNG" alt="imagem da página de armazenamento das tarefas realizadas com o timer"/>
 </div>
 
 
