@@ -38,7 +38,7 @@ Timer for my tasks
 <p>Você poderá consultar o tempo restante, assim como a lista de tarefas em andamento/concluídas/interrompidas.</p>
 
 <div align="center">
-  <img align="center" alt="https://user-images.githubusercontent.com/117778237/211626216-e6a36095-34ee-48fd-ac97-fbd5cd018453.png"/>
+  <img align="center" alt="https://user-images.githubusercontent.com/117778237/211626216-e6a36095-34ee-48fd-ac97-fbd5cd018453.PNG"/>
 </div>
 
 
